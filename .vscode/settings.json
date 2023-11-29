@@ -1,0 +1,16 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\tusha\\Downloads\\Jar\\javamail-1.3.2.jar",
+        "c:\\Users\\tusha\\Downloads\\Jar\\jcalendar-1.4.jar",
+        "c:\\Users\\tusha\\Downloads\\Jar\\miglayout-4.0.jar",
+        "c:\\Users\\tusha\\Downloads\\Jar\\timingframework-core-5.5.0.jar",
+        "c:\\Users\\tusha\\Downloads\\Jar\\activation-1.1.1.jar",
+        "c:\\Users\\tusha\\Downloads\\Jar\\javax.mail-1.6.2.jar",
+        "c:\\Users\\tusha\\Downloads\\Jar\\imap-1.6.2.jar",
+        "c:\\Users\\tusha\\Downloads\\Jar\\jcommon-1.0.23.jar",
+        "c:\\Users\\tusha\\Downloads\\Jar\\jfreechart-1.0.19.jar",
+        "c:\\Users\\tusha\\Downloads\\Jar\\RSCalendar.jar",
+        "c:\\Users\\tusha\\Downloads\\Jar\\RojeruSan.parte1.jar"
+    ]
+}
